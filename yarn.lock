@@ -1077,10 +1077,10 @@ form-data@^4.0.0:
     combined-stream "^1.0.8"
     mime-types "^2.1.12"
 
-fractional@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/fractional/-/fractional-1.0.0.tgz#dab167a2f9f804cf9038bddf47aa9ba7f207eabc"
-  integrity sha512-4huGcVdAAr0ffcQ7wQY3dhAdZqKd6QgGOP4Kd7ioNoBAS7GdzolwnqgjH/jTzzCpg71oTLbOVwcOWOH+BmwqvA==
+fracty@^1.0.11:
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/fracty/-/fracty-1.0.11.tgz#f0a1f6d1d85bced538c9536e9e7411159ee1b5ee"
+  integrity sha512-ErR63lQoYO4xMGkJDW6byvE92l+h00yVnKkW4CjHevKBxVBhnd9C3xaDJwkaMmmr6Y/LlqGk1Gu9wf9wk1FcCg==
 
 fsevents@~2.3.2:
   version "2.3.2"
